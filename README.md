@@ -12,7 +12,7 @@ Los siguientes archivos forman el núcleo del desarrollo del análisis:
 
 - [`main.ipynb`](main.ipynb): Es el cuaderno interactivo principal donde se lleva a cabo todo el análisis, la generación de código y simulaciones probabilísticas, paso a paso, abarcando todas las lecciones del Módulo 5 ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-statistical-inference/blob/main/)).
 - [`technical_report.md`](technical_report.md): Informe técnico con el resumen ejecutivo de los hallazgos, explicaciones empíricas y recomendaciones.
-- `data/simulated_students_health.csv`: Conjunto de datos base, generado sintéticamente en la Lección 2 del cuaderno, para evaluar la probabilidad, teoremas y ejecutar las inferencias estadísticas.
+- [`data/simulated_students_health.csv`](data/simulated_students_health.csv): Conjunto de datos base, generado sintéticamente en la Lección 2 del cuaderno, para evaluar la probabilidad, teoremas y ejecutar las inferencias estadísticas.
 
 ## Requisitos y Tecnologías
 
