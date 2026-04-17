@@ -10,7 +10,7 @@ El equipo de investigación, asumiendo el rol de analistas de datos, ha sido con
 
 Los siguientes archivos forman el núcleo del desarrollo del análisis:
 
-- [`main.ipynb`](main.ipynb): Es el cuaderno interactivo principal donde se lleva a cabo todo el análisis, la generación de código y simulaciones probabilísticas, paso a paso ([▶ Ver en nbviewer](https://nbviewer.org/github/c-mena/dsb26-statistical-inference/blob/main/main.ipynb)).
+- [`main.ipynb`](main.ipynb) ([▶ _Ver en_  __nbviewer__](https://nbviewer.org/github/c-mena/dsb26-statistical-inference/blob/main/main.ipynb)): Es el cuaderno interactivo principal donde se lleva a cabo todo el análisis, la generación de código y simulaciones probabilísticas, paso a paso.
 - [`technical_report.md`](technical_report.md): Informe técnico con el resumen ejecutivo de los hallazgos, explicaciones empíricas y recomendaciones.
 - [`data/simulated_students_health.csv`](data/simulated_students_health.csv): Conjunto de datos base, generado sintéticamente en `main.ipynb`
 
